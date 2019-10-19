@@ -1,0 +1,7 @@
+<h1>Web Ping</h1>
+
+<p *ngIf="!pingResult"><em>Loading...</em></p>
+
+<p *ngIf="pingResult">
+  {{pingResult.address}} - {{pingResult.time}}: {{pingResult.status}}
+</p>

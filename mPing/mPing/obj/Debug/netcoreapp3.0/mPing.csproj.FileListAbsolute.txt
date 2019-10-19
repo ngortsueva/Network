@@ -1,0 +1,12 @@
+C:\Users\foxland\Dev\Network\mPing\mPing\bin\Debug\netcoreapp3.0\mPing.exe
+C:\Users\foxland\Dev\Network\mPing\mPing\bin\Debug\netcoreapp3.0\mPing.deps.json
+C:\Users\foxland\Dev\Network\mPing\mPing\bin\Debug\netcoreapp3.0\mPing.runtimeconfig.json
+C:\Users\foxland\Dev\Network\mPing\mPing\bin\Debug\netcoreapp3.0\mPing.runtimeconfig.dev.json
+C:\Users\foxland\Dev\Network\mPing\mPing\bin\Debug\netcoreapp3.0\mPing.dll
+C:\Users\foxland\Dev\Network\mPing\mPing\bin\Debug\netcoreapp3.0\mPing.pdb
+C:\Users\foxland\Dev\Network\mPing\mPing\obj\Debug\netcoreapp3.0\mPing.csprojAssemblyReference.cache
+C:\Users\foxland\Dev\Network\mPing\mPing\obj\Debug\netcoreapp3.0\mPing.csproj.CoreCompileInputs.cache
+C:\Users\foxland\Dev\Network\mPing\mPing\obj\Debug\netcoreapp3.0\mPing.AssemblyInfoInputs.cache
+C:\Users\foxland\Dev\Network\mPing\mPing\obj\Debug\netcoreapp3.0\mPing.AssemblyInfo.cs
+C:\Users\foxland\Dev\Network\mPing\mPing\obj\Debug\netcoreapp3.0\mPing.dll
+C:\Users\foxland\Dev\Network\mPing\mPing\obj\Debug\netcoreapp3.0\mPing.pdb
